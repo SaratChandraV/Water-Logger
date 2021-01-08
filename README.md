@@ -8,3 +8,6 @@ This app demonstrates following:
 4.	Visualizes the monthly water consumption data with bar charts.
 5.	Records both the number of times as well as time at which water is consumed.
 6.	Has option to retrieve day wise water consumption details.
+
+Notes:
+The TextMeshPro is not included in the Assets folder and user is reuested to add it via unity package method to make the project work properly.
