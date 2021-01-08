@@ -10,4 +10,4 @@ This app demonstrates following:
 6.	Has option to retrieve day wise water consumption details.
 
 Notes:
-The TextMeshPro is not included in the Assets folder and user is reuested to add it via unity package method to make the project work properly.
+The TextMeshPro is not included in the Assets folder and user is requested to add it via unity package method to make the project work properly.
